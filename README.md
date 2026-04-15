@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto consiste en el desarrollo de un **Sistema Integral de Gestión de Clientes, Servicios y Reservas** para la empresa **Software FJ**, implementado en **Python** bajo el paradigma de **Programación Orientada a Objetos (POO)** y **sin uso de bases de datos**.
+Este proyecto consiste en el desarrollo de un **Sistema Integral de Gestión de Clientes, Servicios y Reservas** para la Universidad Nacional Abierta y a Distancia - UNAD para el curso de Programación, implementado en **Python** bajo el paradigma de **Programación Orientada a Objetos (POO)** y **sin uso de bases de datos**.
 
 El sistema permite administrar clientes, servicios y reservas mediante estructuras en memoria, listas internas y archivos para el registro de eventos y errores.
 
